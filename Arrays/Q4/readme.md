@@ -5,4 +5,3 @@
 3.check 
 nums[j] !=0 
 then swap
-4.increase i++ as per condition
