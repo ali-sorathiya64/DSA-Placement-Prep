@@ -9,7 +9,7 @@ We use two pointers:
 - `i` → position to place the next non-zero element
 - `j` → current element traversal
 
-### Steps:
+###. steps 
 1. Traverse the array using pointer `j`
 2. If nums[j] != 0`:
    - Swap `nums[i]` and `nums[j]`
